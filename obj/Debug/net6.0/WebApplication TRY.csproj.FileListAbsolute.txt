@@ -1,0 +1,30 @@
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\appsettings.Development.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\appsettings.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\WebApplication TRY.staticwebassets.runtime.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\WebApplication TRY.exe
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\WebApplication TRY.deps.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\WebApplication TRY.runtimeconfig.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\WebApplication TRY.dll
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\bin\Debug\net6.0\WebApplication TRY.pdb
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.GeneratedMSBuildEditorConfig.editorconfig
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.AssemblyInfoInputs.cache
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.AssemblyInfo.cs
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.csproj.CoreCompileInputs.cache
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.MvcApplicationPartsAssemblyInfo.cache
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.RazorAssemblyInfo.cache
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.RazorAssemblyInfo.cs
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication TRY.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication TRY.props
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication TRY.props
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication TRY.props
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\staticwebassets.pack.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\staticwebassets.build.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\staticwebassets.development.json
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\scopedcss\bundle\WebApplication TRY.styles.css
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication TRY.bundle.scp.css
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.dll
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\refint\WebApplication TRY.dll
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.pdb
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\WebApplication TRY.genruntimeconfig.cache
+E:\TRY ASP.NET\WebApplication TRY\WebApplication TRY\obj\Debug\net6.0\ref\WebApplication TRY.dll
